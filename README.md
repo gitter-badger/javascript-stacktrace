@@ -1,4 +1,6 @@
 # What is stacktrace.js? #
+
+[![Join the chat at https://gitter.im/bugsense/javascript-stacktrace](https://badges.gitter.im/bugsense/javascript-stacktrace.svg)](https://gitter.im/bugsense/javascript-stacktrace?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A Javascript tool that allows you to debug your Javascript by giving you a [stack trace](http://en.wikipedia.org/wiki/Stack_trace) of function calls leading to an error (or any condition you specify)
 
 # How do I use stacktrace.js? #
